@@ -31,6 +31,34 @@ nav ul li a {
     font-weight: bold;
 }
 
+main {
+    padding: 20px;
+}
+
+section {
+    margin-bottom: 40px;
+    padding: 20px;
+    background-color: #f2f2f2;
+    border-radius: 5px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+section h2 {
+    margin-top: 0;
+    color: #333;
+}
+
+section img {
+    max-width: 100%;
+    height: auto;
+    margin-bottom: 10px;
+}
+
+section p {
+    line-height: 1.5;
+    color: #666;
+}
+
 footer {
     text-align: center;
     padding: 1em 0;
